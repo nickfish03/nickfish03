@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nickfish03
-- 👀 I’m interested in Data Analysis, Data Science, IoT, Microcontrollers
-- 🌱 I’m currently improving my SQL, Python and R skills
+- 👀 I’m interested in Data Analysis, Data Science, IoT, Microcontrollers and Automation
 <!--- - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 --->
